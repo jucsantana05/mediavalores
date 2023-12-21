@@ -1,0 +1,15 @@
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.csproj.AssemblyReference.cache
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.AssemblyInfoInputs.cache
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.AssemblyInfo.cs
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.csproj.CoreCompileInputs.cache
+/Users/julia/Projects/media/media/bin/Debug/net7.0/media
+/Users/julia/Projects/media/media/bin/Debug/net7.0/media.deps.json
+/Users/julia/Projects/media/media/bin/Debug/net7.0/media.runtimeconfig.json
+/Users/julia/Projects/media/media/bin/Debug/net7.0/media.dll
+/Users/julia/Projects/media/media/bin/Debug/net7.0/media.pdb
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.dll
+/Users/julia/Projects/media/media/obj/Debug/net7.0/refint/media.dll
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.pdb
+/Users/julia/Projects/media/media/obj/Debug/net7.0/media.genruntimeconfig.cache
+/Users/julia/Projects/media/media/obj/Debug/net7.0/ref/media.dll
